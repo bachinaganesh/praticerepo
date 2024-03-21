@@ -7,3 +7,8 @@ Cricket
 Badminton
 Kabaddi
 VolleyBall
+
+2. Best Indoor Games
+=====================
+1. Chess
+2. Carroms
