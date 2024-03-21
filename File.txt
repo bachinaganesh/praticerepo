@@ -5,3 +5,11 @@ Top 5 Programming Languages
 3. Js
 4. C++
 5. Kotlin
+
+Top 5 Resources To Learn Programming
+=====================================
+1. W3schools
+2. Programiz
+3. Javatpoint
+4. Tutorials Point
+5. Free Code Camp
