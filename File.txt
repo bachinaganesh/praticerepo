@@ -13,7 +13,3 @@ Top 5 Resources To Learn Programming
 3. Javatpoint
 4. Tutorials Point
 5. Free Code Camp
-
-Top 5 Code Editors
-1. Vs Code
-2. Intellij Idea
