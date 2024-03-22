@@ -2,5 +2,3 @@ Top Databases
 ================
   1. Mongodb
   2. Sql
-  3. Postgres
-  4. Server DB
