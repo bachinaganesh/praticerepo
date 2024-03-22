@@ -17,5 +17,3 @@ Top 5 Resources To Learn Programming
 Top 5 Code Editors
 1. Vs Code
 2. Intellij Idea
-3. Eclipse
-4. Sublime Text
