@@ -1,7 +1,5 @@
-Top 5 Databases
+Top Databases
 ================
   1. Mongodb
   2. Sql
   3. Postgres
-  4. Oracle
-  5. Server Sql
